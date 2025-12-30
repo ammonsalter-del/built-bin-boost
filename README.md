@@ -6,7 +6,7 @@ An interactive business simulation that teaches R&D portfolio management through
 
 ## 🎮 Play the Game
 
-**[Launch Build, Bin, Boost][(https://ammonsalter-del.github.io/built-bin-boost/)
+**[Launch Build, Bin, Boost]**(https://ammonsalter-del.github.io/built-bin-boost/)**
 
 ## Educational Context
 
