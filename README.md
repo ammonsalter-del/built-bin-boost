@@ -214,7 +214,7 @@ Academic research on R&D portfolio management, project selection, and innovation
 ### Version 1.3 (Current)
 - **New: AI advisor system** - Added an AI advisor option for all aspects of the game or R&D project selection only. The AI advisor is named Devi after Shakuntala Devi. Devi provides advice and support, but like an AI tool she has her limitations.
 - **New: Revised U/I** - R&D project scoring based on cards rather than different screens.
-- **New: Revised tracker information and about the game** - A new popup on information collected by Google tracker with an opt out option and more background on logic and purpose of the simulation.
+- **New: Revised tracker information and greater information about the game** - A new popup on information collected by Google tracker with an opt out option and more background on logic and purpose of the simulation.
   
 ### Version 1.2
 - **New: Resource Run mini-game** — Optional logistics challenge before Year 2 portfolio allocation that can provide bonus budget
