@@ -45,7 +45,7 @@ The board has set four strategic priorities that the portfolio should address:
 ## Game Flow
 
 ### 1. Design Your Selection Process
-Players choose how project funding decisions will be made. Options include deciding alone, assembling a selection committee, using a staff jury, or random selection. Each approach has trade-offs between speed, expertise, bias, and buy-in.
+Players choose how project funding decisions will be made. Options include deciding alone, assembling a selection committee, using a staff jury, or random selection. Each approach has trade-offs between speed, expertise, bias, and buy-in. Decide whether to deploy an AI advisor - Devi - across the game or only for project selection. 
 
 When forming a committee, players select from ShieldTech's leadership team. Each person brings different expertise, perspectives, and biases—the CTO sees technical risk differently than the CFO sees financial risk. Committee composition shapes which projects get attention and support.
 
