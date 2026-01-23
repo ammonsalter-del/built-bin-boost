@@ -92,6 +92,7 @@ At the end of Year 2, players discover which projects truly succeeded or failed.
 - **Strategic alignment** — Did you cover the board's priorities?
 - **Portfolio management** — Were your kill decisions well-timed?
 - **Active leadership** — Did you make decisions or let the portfolio drift?
+- **AI Advisor** - How accurate was your AI advisor?
 
 ### 8. Download Your Case Study
 After completing the simulation, players can download a **professional PDF case study** summarising their two-year tenure as VP of R&D. The case study includes:
@@ -130,6 +131,7 @@ Through gameplay, students learn to:
 - **Manage portfolios actively over time** — Decide when to persist with struggling projects and when to cut losses
 - **Navigate organisational dynamics** — Handle real-world situations like team conflicts, budget pressures, competitor moves, and political considerations
 - **Recognise decision-making biases** — Understand how committee composition, evaluation methods, and cognitive biases affect selection outcomes
+- **Assess the costs and benefits of using AI in decision-making** - Explore how AI advice might shape decisions in R&D project contexts
 
 ## Using in Teaching
 
