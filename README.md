@@ -10,7 +10,7 @@ An interactive business simulation that teaches R&D portfolio management through
 
 ## Website
 
-**[(https://buildbinboost.org/)
+**(https://buildbinboost.org/)
 
 ## Educational Context
 
