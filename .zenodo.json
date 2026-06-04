@@ -1,0 +1,33 @@
+{
+  "title": "Build, Bin, Boost: The R&D Portfolio Simulation",
+  "description": "<p>An interactive, browser-based business simulation that teaches R&amp;D portfolio management through experiential learning. Players take the role of Head of R&amp;D at the fictional ShieldTech India, design a project-selection process, build and actively manage a portfolio of innovation projects across two years under genuine uncertainty, and receive a scorecard that judges the quality of their decisions and process rather than luck alone. Designed for business-school teaching at Masters, MBA, undergraduate and executive-education levels. A single self-contained HTML file; no installation required.</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc-by-nc-sa-4.0",
+  "version": "1.4",
+  "creators": [
+    {
+      "name": "Salter, Ammon",
+      "affiliation": "Warwick Business School, University of Warwick"
+    }
+  ],
+  "contributors": [
+    { "name": "Bignone, Federico", "type": "Other" },
+    { "name": "Criscuolo, Paola", "type": "Other" },
+    { "name": "Kolympiris, Christos", "type": "Other" },
+    { "name": "Marsili, Orietta", "type": "Other" },
+    { "name": "Salandra, Rossella", "type": "Other" },
+    { "name": "Dahlander, Linus", "type": "Other" },
+    { "name": "Verma, Lakshya", "type": "Other" }
+  ],
+  "keywords": [
+    "R&D portfolio management",
+    "innovation management",
+    "project selection",
+    "business simulation",
+    "teaching simulation",
+    "decision-making under uncertainty",
+    "technology strategy"
+  ],
+  "notes": "Development assistance from Claude (Anthropic) and GPT-5 (OpenAI). Illustrative images and some project data were generated with Gemini (Google)."
+}
